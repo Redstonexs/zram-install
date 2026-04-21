@@ -19,4 +19,4 @@
 使用 `curl` 获取并直接执行：
 
 ```bash
-curl -sSL [https://raw.githubusercontent.com/Redstonexs/zram-install/main/install_zram.sh](https://raw.githubusercontent.com/Redstonexs/zram-install/main/install_zram.sh) | sudo bash
+curl -sSL https://raw.githubusercontent.com/Redstonexs/zram-install/main/install_zram.sh | sudo bash
